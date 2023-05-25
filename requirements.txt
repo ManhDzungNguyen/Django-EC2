@@ -1,1 +1,6 @@
 Django==4.2.1
+ipykernel
+ipython
+jupyter
+notebook
+requests
